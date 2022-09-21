@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Andria Salah</h1>
-<h3 align="center">A UI/UX designer Student with the passion to learn Front End development and also flutter in the near future</h3>
+<h3 align="center">A moderate UI/UX designer who is also a Student with the passion to learn Front End development and also flutter in the near future</h3>
 
-- 🔭 I’m currently working on [My portfolio website](andrias.vercel.app)
+- 🔭 I’m currently working on [A Music player website](https://github.com/AndriaSalah/MusicPlayer-web)
 
-- 🌱 I’m currently learning **Angular and Backend development**
+- 🌱 I’m currently learning **Angular and in the future Backend development**
 
 - 👨‍💻 All of my projects are available at [andrias.vercel.app](andrias.vercel.app)
 

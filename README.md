@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **Andriasalah1@hotmail.com**
 
-- ⚡ Fun fact **My Portfolio will never be finished as I keep adding new stuff to it :smile:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular and in the future Backend development**
 
-- 👨‍💻 All of my projects are available at [andrias.vercel.app](andrias.vercel.app)
+- 👨‍💻 All of my projects are available at [https://andrias.vercel.app](andrias.vercel.app)
 
 - 💬 Ask me about **Java, JS, HTML and CSS**
 

@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Andriasalah.r@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1czFaJceCixCJ0NkaifXKGfmuNaqYAgZO/view?usp=drive_link](https://drive.google.com/file/d/1czFaJceCixCJ0NkaifXKGfmuNaqYAgZO/view?usp=drive_link)
+- 📄 Know about my experiences [My cv](https://drive.google.com/file/d/1czFaJceCixCJ0NkaifXKGfmuNaqYAgZO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
